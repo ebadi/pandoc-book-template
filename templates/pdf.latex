@@ -267,6 +267,7 @@ $else$
 $if(colorlinks)$
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
 $endif$
+\setcounter{secnumdepth}{$toc-depth$}
 \setcounter{tocdepth}{$toc-depth$}
 \tableofcontents
 }
