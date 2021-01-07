@@ -287,7 +287,6 @@ $if(has-frontmatter)$
 \mainmatter
 $endif$
 $body$
-\backmatter
 \section*{Acknowledgements}
 This work is done by Infotiv under VALU3S project.
 \\
